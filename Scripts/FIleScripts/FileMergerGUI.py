@@ -5,6 +5,7 @@ import fileIO
 '''
 FIXME: events -FOLDER_PATH- and -TUNNEL- can misfire
 FIXME: require file_type
+FIXME: input sanitation and validation
 FIXME: after merge, keep program open, reset values, present successful merge message 
 FIXME: implement error handling
 FIXME: improved variable naming
